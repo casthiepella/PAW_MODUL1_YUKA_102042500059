@@ -19,28 +19,28 @@ $produk = [
         "kategori" => "Aksesoris",
         "harga" => 50000,
         "stok" => 0,
-        "gambar" => "Foto Tidak Tersedia"
+        "gambar" => "https://images.unsplash.com/photo-1656071830624-06aa347f99a7?fm=jpg&q=60&w=600"
     ],
     [
         "nama" => "Keyboard",
         "kategori" => "Aksesoris",
         "harga" => 350000,
         "stok" => 8,
-        "gambar" => "https://www.google.com/search?client=firefox-b-d&hs=sfNB&sca_esv=436d40f9f8d3ade5&sxsrf=APpeQnvUawZqMDsTz7EN_rfw_PlxggFsqw:1790575400726&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYRzcy6GgySVUpZky6o6nTl3OG98qpkeeTCM9JzouvaRJQNVBIlqvHlbV5UA1RGm1rbZ9xWMN_Hr8g0ha1qeLoO7VNubskvftXpdm6Kodm01ll8oGnsVKC5kwJjWh0HtZX_jOPLJJFydHUw2yhwPrSrFEuoL8w&q=keyboard&sa=X&ved=2ahUKEwjQqtCVzZCXAxVekOEIHdEXHZcQtKgLegQIGRAB&biw=1280&bih=667&dpr=1.5#sv=CAMSURoyKhBlLWthX3c1YWJOX3hFNWxNMg5rYV93NWFiTl94RTVsTToOSHFsVHJvQXdpNE5IdE0gBCoXCgFzEhBlLWthX3c1YWJOX3hFNWxNGAEwARgHIKOrsThKCBABGAEgASgB"
+        "gambar" => "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600"
     ],
     [
         "nama" => "Mouse",
         "kategori" => "Aksesoris",
         "harga" => 350000,
         "stok" => 0,
-        "gambar" => "https://www.google.com/search?q=mouse&client=firefox-b-d&hs=ALiq&sca_esv=436d40f9f8d3ade5&udm=2&biw=1280&bih=667&sxsrf=APpeQnv1FECOXnQelrV7LQqyENXRqr70WA%3A1790575404484&ei=LAO6apSYHZ-dhvcP5P-o4Q8&ved=2ahUKEwiU3rWXzZCXAxWfjuEIHeQ_KvwQ4dUDegQIBhAN&uact=5&oq=mouse&gs_lp=Egtnd3Mtd2l6LWltZyIFbW91c2UyBxAjGMkCGCcyBxAjGMkCGCcyChAAGIAEGIoFGEMyDRAAGIAEGIoFGEMYsQMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyDRAAGIAEGIoFGEMYsQNIrx1QzwRYrxZwAngAkAEEmAGmAaAB7AiqAQM1Lja4AQPIAQD4AQGYAgigAuQEqAIKwgIGEAAYBxgewgIIEAAYgAQYsQPCAgoQIxjJAhjqAhgnwgILEAAYgAQYsQMYgwGYAxmIBgGSBwM2LjKgB9JAsgcDNC4yuAe5BMIHBTMtNy4xyAd0gAgB&sclient=gws-wiz-img#sv=CAMSURoyKhBlLXBVVEVsQnh4WDJvanlNMg5wVVRFbEJ4eFgyb2p5TToOYncwUXRYblNKUXNpWU0gBCoXCgFzEhBlLXBVVEVsQnh4WDJvanlNGAEwARgHIPLRvIkNSggQARgBIAEoAQ"
+        "gambar" => "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600"
     ],  
     [
         "nama" => "Laptop Acer Aspire",
         "kategori" => "Laptop",
         "harga" => 5500000,
         "stok" => 4,
-        "gambar" => "https://www.google.com/search?client=firefox-b-d&hs=b02V&sca_esv=436d40f9f8d3ade5&sxsrf=APpeQnufHgOCGkN3mIbZL9mExhx9uXlCiA:1790575716833&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jnxvATrUU2Yg9dwuUGnsUHcA8ltRxGSueAm4xbJB7-U9cPMH0Lmd_MDeyt_UYo2-Y-EZufEZ9Nod2V-Wq5tsLfAwnEtDMOl5dCwKHYIusJzDlM0TG-f_WJ6ZjvZrqXJteSwE3A0L8zvPKqZAhb1szEcFPURag&q=laptop+acer+aspire&sa=X&ved=2ahUKEwjd8a2szpCXAxWo1jgGHaM_JZIQtKgLegQIGRAB&biw=1280&bih=667&dpr=1.5#sv=CAMSURoyKhBlLTNiZUw1UkVDUm1VQU5NMg4zYmVMNVJFQ1JtVUFOTToOUjRVZkhkcEYtN040Yk0gBCoXCgFzEhBlLTNiZUw1UkVDUm1VQU5NGAEwARgHIPyGsdQKSggQARgBIAEoAQ"
+        "gambar" => "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600"
     ]
 ];
 $jumlahProduk = count($produk);
